@@ -1,4 +1,4 @@
-@import url("../css/reset.css");
+/* @import url("../css/reset.css"); */
 
 :root {
     --card-bg-color: #663399;
@@ -55,6 +55,7 @@ body {
     width: 90%;
     max-width: 10rem;
 }
+
 
 .text-container {
     display: flex;

@@ -1,4 +1,4 @@
-"using strict";
+"use strict";
 
 let count = 0;
 
@@ -32,30 +32,20 @@ function renderUpdatedCount() {
 incrementBtn.addEventListener("click", function () {
     // Write code below this line
 
-
-
     // STOP HERE
-
-
     renderUpdatedCount();
 });
 
 resetBtn.addEventListener("click", function () {
     // Write code below this line
     
-
     // STOP HERE
-    
-    
     renderUpdatedCount();
 });
 
 decrementBtn.addEventListener("click", function () {
     // Write code below this line
 
-
     // STOP HERE
-
-
     renderUpdatedCount();
 });

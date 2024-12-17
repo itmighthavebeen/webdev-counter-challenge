@@ -67,5 +67,10 @@ body {
 }
 
 @media (width >= 500px) {
-    
+    button {
+        font-size: 18px; /* Larger text for bigger screens */
+        padding: 10px 20px; /* Larger padding for bigger screens */
+        background-color: #4CAF50; /* Green background */
+        color: white; /* White text */
+    }   
 }

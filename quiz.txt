@@ -1,5 +1,5 @@
-1. Why do you use "using strict" at the top of your JS files?
-2. What does line 3 mean?
-3. What is happening on lines 5-8 and why?
+1. Why do you use "using strict" at the top of your JS files? The use of using strict" will enforce stricter sytax rules to catch coding errors for cleaner, more secure code.
+2. What does line 3 mean? The line let count=0 sets the value of the variable count to 0 (initialize)
+3. What is happening on lines 5-8 and why? These lines assign constants to my class-identified elements
 4. If you implemented the functionality of the buttons,
-   why do you think I wrote the JS code the way I did?
+   why do you think I wrote the JS code the way I did? Writing the code in functions allows for portability, understandability (code speaks for itself) and ease of code maintanence.

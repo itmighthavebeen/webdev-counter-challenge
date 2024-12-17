@@ -27,19 +27,25 @@ To view the project locally, you can either open the project files in your code 
 
 ### Tasks
 
-- [ ] Read `index.html`, `style.css`, and `app.js` carefully.
-- [ ] Update **only** the media query in `style.css`. The mockups are in the mockups folder.
-- [ ] Read `app.js` again and reference `quiz.txt`
-- [ ] Write the missing code in `app.js` to implement the functionality of the buttons.
-- [ ] Answer the questions in `quiz.txt`.
+- [X ] Read `index.html`, `style.css`, and `app.js` carefully.
+- [X ] Update **only** the media query in `style.css`. The mockups are in the mockups folder.
+- [X ] Read `app.js` again and reference `quiz.txt`
+- [X ] Write the missing code in `app.js` to implement the functionality of the buttons.
+- [x] Answer the questions in `quiz.txt`.
+
+***Added Task:***
+***- added aria labels and tested how it works with free screen reader NVDA***
+
+***Future Needs:***
+***- currently has to close page to get out of modal- not sure if this is best practice ***
 
 ### Tips
+
 - Push a commit for each task completed. Include a meaningfull commit message.
 - Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
-- Get used to using your browser's developer tools now. For now, become familiar with: 
-    - Toggling between desktop mode and device emulation/responsive mode.
-    - Using inspector mode to inspect elements.
-
+- Get used to using your browser's developer tools now. For now, become familiar with:
+  - Toggling between desktop mode and device emulation/responsive mode.
+  - Using inspector mode to inspect elements.
 
 ### Submitting Your Work
 
